@@ -44,4 +44,3 @@ Just a few keras-things I found useful.
 ## Interoperating with other frameworks
 
 * https://github.com/Microsoft/MMdnn
-
