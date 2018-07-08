@@ -25,8 +25,10 @@ Just a few keras-things I found useful.
 
 1. https://github.com/merantix/picasso
 2. https://github.com/raghakot/keras-vis
-3. https://github.com/keplr-io/quiver
-4. https://github.com/fchollet/hualos
+3. https://github.com/fchollet/hualos
+4. [quiver: Interactive convnet features visualization for Keras](https://github.com/keplr-io/quiver) ([homepage](https://keplr-io.github.io/quiver/))
+5. [hera: Train/evaluate a Keras model, get metrics streamed to a dashboard in your browser](https://github.com/keplr-io/hera)
+6. [picard: Easily declare large spaces of (keras) neural networks and run (hyperopt) optimization experiments on them](https://github.com/keplr-io/picard) ([homepage](http://picard.libs.keplr.io/))
 
 ## Recurrent Networks
 
