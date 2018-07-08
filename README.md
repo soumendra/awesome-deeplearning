@@ -37,4 +37,7 @@ Just a few keras-things I found useful.
 * https://github.com/OsciiArt/DeepAA
 * https://github.com/titu1994/Neural-Style-Transfer
 
+## Interoperating with other frameworks
+
+* https://github.com/Microsoft/MMdnn
 
