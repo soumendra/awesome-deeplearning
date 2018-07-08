@@ -3,7 +3,6 @@
 Just a few keras-things I found useful.
 
 * https://github.com/fchollet/keras-resources
-* https://github.com/kuza55/keras-extras
 
 ## Modeling Tools/Utilities
 
@@ -11,6 +10,10 @@ Just a few keras-things I found useful.
 2. https://github.com/maxpumperla/hyperas
 3. https://github.com/keras-team/keras-contrib
 4. [Accelerating Deep Learning with Multiprocess Image Augmentation in Keras](https://github.com/stratospark/keras-multiprocess-image-data-generator) ([accompanying blog post](http://blog.stratospark.com/multiprocess-image-augmentation-keras.html))
+5. [ml-tools: Tools for common machine learning tasks using Tensorflow and Keras](https://github.com/triagemd/ml-tools)
+6. https://github.com/kuza55/keras-extras
+7. [keras-multi-gpu: Multi-GPU data-parallel training in Keras](https://github.com/rossumai/keras-multi-gpu)
+8. [keras_callbacks_example: Keras Callback Examples](https://github.com/keunwoochoi/keras_callbacks_example)
 
 ## Implementation (from Scratch)/Pre-trained Models
 
@@ -20,6 +23,7 @@ Just a few keras-things I found useful.
 4. https://github.com/fchollet/deep-learning-models
 5. https://github.com/titu1994/DenseNet
 6. [BatchRenormalization: Batch Renormalization algorithm implementation in Keras](https://github.com/titu1994/BatchRenormalization)
+7. [mlp: Multilayer Perceptron Keras wrapper for sklearn](https://github.com/alvarouc/mlp)
 
 ## Visualization Tools
 
@@ -29,6 +33,7 @@ Just a few keras-things I found useful.
 4. [quiver: Interactive convnet features visualization for Keras](https://github.com/keplr-io/quiver) ([homepage](https://keplr-io.github.io/quiver/))
 5. [hera: Train/evaluate a Keras model, get metrics streamed to a dashboard in your browser](https://github.com/keplr-io/hera)
 6. [picard: Easily declare large spaces of (keras) neural networks and run (hyperopt) optimization experiments on them](https://github.com/keplr-io/picard) ([homepage](http://picard.libs.keplr.io/))
+7. [keras-visualize-activations: Activation Maps Visualization for Keras](https://github.com/philipperemy/keras-visualize-activations)
 
 ## Recurrent Networks
 
@@ -52,3 +57,4 @@ Just a few keras-things I found useful.
 ## Interoperating with other frameworks
 
 1. https://github.com/Microsoft/MMdnn
+2. [model-converters: Tools for converting Keras models for use with other ML frameworks](https://github.com/triagemd/model-converters)
