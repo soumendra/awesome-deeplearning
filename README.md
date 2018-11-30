@@ -58,3 +58,5 @@ Just a few keras-things I found useful.
 
 1. https://github.com/Microsoft/MMdnn
 2. [model-converters: Tools for converting Keras models for use with other ML frameworks](https://github.com/triagemd/model-converters)
+3. [PyTorch to Keras model converter](https://github.com/nerox8664/pytorch2keras)
+4. [Gluon to Keras model converter](https://github.com/nerox8664/gluon2keras)
