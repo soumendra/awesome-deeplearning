@@ -25,6 +25,7 @@ Just a few keras-things I found useful.
 6. [BatchRenormalization: Batch Renormalization algorithm implementation in Keras](https://github.com/titu1994/BatchRenormalization)
 7. [mlp: Multilayer Perceptron Keras wrapper for sklearn](https://github.com/alvarouc/mlp)
 8. [Image-Classification-Mobile: Sandbox for training large-scale image classification networks for embedded systems, including collection of pretrained classification models for Keras with MXNet backend](https://github.com/osmr/imgclsmob)
+9. [Keras Implementation of Ladder Network for Semi-Supervised Learning](https://github.com/divamgupta/ladder_network_keras)
 
 ## Visualization Tools
 
