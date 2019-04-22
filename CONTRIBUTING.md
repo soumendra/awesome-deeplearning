@@ -4,11 +4,15 @@ This is a community project. We invite your participation through issues, and pu
 
 # How to tag your links with badges
 
+## Libraries
+
 ![](https://img.shields.io/badge/Library-Keras-green.svg)
 ![](https://img.shields.io/badge/Library-Tensorflow-green.svg)
 ![](https://img.shields.io/badge/Library-Pytorch-green.svg)
 ![](https://img.shields.io/badge/Library-FastAI-green.svg)
 ![](https://img.shields.io/badge/Library-MXNet-green.svg)
+
+## Tasks
 
 ![](https://img.shields.io/badge/Task-CNN:Classification-blue.svg)
 ![](https://img.shields.io/badge/Task-CNN:Detection-blue.svg)
@@ -24,6 +28,13 @@ This is a community project. We invite your participation through issues, and pu
 ![](https://img.shields.io/badge/Task-Recommender%20System-blue.svg)
 ![](https://img.shields.io/badge/Task-Art-blue.svg)
 
+![](https://img.shields.io/badge/Task-Face%20Alignment-blue.svg)
+![](https://img.shields.io/badge/Task-Face%20Detection-blue.svg)
+![](https://img.shields.io/badge/Task-Face%20Recognition-blue.svg)
+![](https://img.shields.io/badge/Task-Face%20Verification-blue.svg)
+
+## Resources
+
 ![](https://img.shields.io/badge/Resource-Paper-red.svg)
 ![](https://img.shields.io/badge/Resource-LandmarkPaper-red.svg)
 ![](https://img.shields.io/badge/Resource-SOTA-red.svg)
@@ -33,3 +44,25 @@ This is a community project. We invite your participation through issues, and pu
 ![](https://img.shields.io/badge/Resource-Tutorial-red.svg)
 ![](https://img.shields.io/badge/Resource-Video-red.svg)
 ![](https://img.shields.io/badge/Resource-Coursework-red.svg)
+
+## Modelling Tasks
+
+![](https://img.shields.io/badge/Modelling-Hyperparam%20Tuning-yellow.svg)
+![](https://img.shields.io/badge/Modelling-Visualisation-yellow.svg)
+![](https://img.shields.io/badge/Modelling-Interpretation-yellow.svg)
+![](https://img.shields.io/badge/Modelling-Monitoring-yellow.svg)
+
+![](https://img.shields.io/badge/Dataset%20Domain-Face-blueviolet.svg)
+![](https://img.shields.io/badge/Dataset%20Domain-Medical-blueviolet.svg)
+![](https://img.shields.io/badge/Dataset%20Domain-MRI-blueviolet.svg)
+![](https://img.shields.io/badge/Dataset%20Domain-XRay-blueviolet.svg)
+![](https://img.shields.io/badge/Dataset%20Domain-Retail-blueviolet.svg)
+
+## Deployment
+
+![](https://img.shields.io/badge/Deployment-API-brightgreen.svg)
+![](https://img.shields.io/badge/Deployment-Browser-brightgreen.svg)
+![](https://img.shields.io/badge/Deployment-Mobile-brightgreen.svg)
+![](https://img.shields.io/badge/Deployment-Edge%20Devices-brightgreen.svg)
+![](https://img.shields.io/badge/Deployment-Model%20Pruning-brightgreen.svg)
+
