@@ -58,6 +58,7 @@ This is a community project. We invite your participation through issues, and pu
 ![](https://img.shields.io/badge/Modelling-Visualisation-yellow.svg)
 ![](https://img.shields.io/badge/Modelling-Interpretation-yellow.svg)
 ![](https://img.shields.io/badge/Modelling-Monitoring-yellow.svg)
+![](https://img.shields.io/badge/Modelling-Multi%20Device-yellow.svg)
 
 ## Dataset Domains
 
