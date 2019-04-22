@@ -1,1 +1,11 @@
 ![](https://img.shields.io/badge/Library-Keras-green.svg)
+![](https://img.shields.io/badge/Library-Tensorflow-green.svg)
+![](https://img.shields.io/badge/Library-Pytorch-green.svg)
+![](https://img.shields.io/badge/Library-FastAI-green.svg)
+
+![](https://img.shields.io/badge/Type-CNN-Classification-blue.svg)
+![](https://img.shields.io/badge/Type-CNN-Detection-blue.svg)
+![](https://img.shields.io/badge/Type-CNN-Segmentation-blue.svg)
+![](https://img.shields.io/badge/Type-RNNLSTM-NLP-blue.svg)
+![](https://img.shields.io/badge/Type-RNNLSTM-TimeSeries-blue.svg)
+![](https://img.shields.io/badge/Type-RNNLSTM-Speech-blue.svg)
