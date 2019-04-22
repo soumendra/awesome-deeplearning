@@ -1,10 +1,23 @@
 # awesome-keras
 
-Just a few keras-things I found useful.
+Here are a few things I found useful in Deep Learning and/with Keras.
 
 * https://github.com/fchollet/keras-resources
 
-## Modeling Tools/Utilities
+# Playground
+
+1. [Tensorflow Playground](https://playground.tensorflow.org): Great tool to understand how all the pieces in a modern Deep Learning model training pipeline (like the one Keras enables) come together and to play with it on small datasets, all without writing any code.
+    - The [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/) from Google has many exercises that can be done with Playground. [Here is the link](https://developers.google.com/machine-learning/crash-course/introduction-to-neural-networks/playground-exercises) to exercises on Neural Networks.
+2. [ConvNetJS](https://cs.stanford.edu/people/karpathy/convnetjs/) served as one of the inspirations for Tensorflow Playground and has a few demos of its own.
+    - [toy 2d classification with 2-layer neural network](https://cs.stanford.edu/people/karpathy/convnetjs/demo/classify2d.html)
+    - [CIFAR-10 demo](https://cs.stanford.edu/people/karpathy/convnetjs/demo/cifar10.html) and [MNIST demo](https://cs.stanford.edu/people/karpathy/convnetjs/demo/mnist.html)
+3. [GAN Lab](https://poloclub.github.io/ganlab/) is just like Tensorflow Playground, but for GANs
+4. [AI Experiments](https://experiments.withgoogle.com/collection/ai) is a showcase of simple and fun applications of Machine Learning and Deep Learning. If you are looking for an idea for your next project, this could help.
+5. [TensorFire](https://tenso.rs/) has [some](https://tenso.rs/demos/fast-neural-style/) [great](https://tenso.rs/demos/rock-paper-scissors/) [demos](https://cyborg.tenso.rs/).
+6. For Neural Style Transfer, [Deepart](https://deepart.io/) has a [demo where you can create your own images](https://deepart.io/hire/) and a [gallery page](https://deepart.io/latest/) where you can see what others have created.
+7. [Magenta](https://magenta.tensorflow.org/) is great for making Music and Art with Tensorflow. It has a [demo page](https://magenta.tensorflow.org/demos)
+
+# Modeling Tools/Utilities
 
 1. https://github.com/joeddav/devol
 2. https://github.com/maxpumperla/hyperas
@@ -15,7 +28,7 @@ Just a few keras-things I found useful.
 7. [keras-multi-gpu: Multi-GPU data-parallel training in Keras](https://github.com/rossumai/keras-multi-gpu)
 8. [keras_callbacks_example: Keras Callback Examples](https://github.com/keunwoochoi/keras_callbacks_example)
 
-## Implementation (from Scratch)/Pre-trained Models
+# Implementation (from Scratch)/Pre-trained Models
 
 1. https://github.com/raghakot/keras-resnet
 2. https://github.com/XifengGuo/CapsNet-Keras
@@ -27,7 +40,7 @@ Just a few keras-things I found useful.
 8. [Image-Classification-Mobile: Sandbox for training large-scale image classification networks for embedded systems, including collection of pretrained classification models for Keras with MXNet backend](https://github.com/osmr/imgclsmob)
 9. [Keras Implementation of Ladder Network for Semi-Supervised Learning](https://github.com/divamgupta/ladder_network_keras)
 
-## Visualization Tools
+# Visualization Tools
 
 1. https://github.com/merantix/picasso
 2. https://github.com/raghakot/keras-vis
@@ -37,11 +50,17 @@ Just a few keras-things I found useful.
 6. [picard: Easily declare large spaces of (keras) neural networks and run (hyperopt) optimization experiments on them](https://github.com/keplr-io/picard) ([homepage](http://picard.libs.keplr.io/))
 7. [keras-visualize-activations: Activation Maps Visualization for Keras](https://github.com/philipperemy/keras-visualize-activations)
 
-## Recurrent Networks
+# Recurrent Networks
 
 1. [recurrentshop: Framework for building complex recurrent neural networks with Keras](https://github.com/farizrahman4u/recurrentshop)
 
-## Tutorial
+# Learning
+
+## Beginner Resources
+
+1. http://neuralnetworksanddeeplearning.com/index.html (great for those just starting with Deep Learning)
+
+## Curated Resources
 
 1. https://github.com/sachinruk/deepschool.io
 2. https://github.com/leriomaggio/deep-learning-keras-tensorflow
@@ -51,12 +70,12 @@ Just a few keras-things I found useful.
 6. https://github.com/anujgupta82/DeepNets/tree/master/Keras/Keras_from_scratch
 7. https://github.com/chibuk/simple-cnn-keras-colaboratory
 
-## Art
+# Art
 
 1. https://github.com/OsciiArt/DeepAA
 2. https://github.com/titu1994/Neural-Style-Transfer
 
-## Interoperating with other frameworks
+# Interoperating with other frameworks
 
 1. https://github.com/Microsoft/MMdnn
 2. [model-converters: Tools for converting Keras models for use with other ML frameworks](https://github.com/triagemd/model-converters)
