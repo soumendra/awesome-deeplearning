@@ -1,8 +1,9 @@
-# awesome-keras
+[](https://img.shields.io/pypi/l/ansicolortags.svg) [](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)
 
 Here are a few things I found useful in Deep Learning and/with Keras.
 
 * https://github.com/fchollet/keras-resources
+
 
 # Playground
 
