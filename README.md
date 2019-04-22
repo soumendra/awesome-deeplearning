@@ -4,9 +4,13 @@
 
 # Table of Content
 
-* Playground: for those just getting started, or looking for fun dates
-* 
-* 
+* [Playground](https://github.com/soumendra/awesome-deeplearning/blob/master/README.md#playground): for those just getting started, or looking for fun dates
+* [Modeling Tools/Utilities]()
+* [Implementations/Pre-trained Models]()
+* [Visualization Tools]()
+* [Learning]()
+* [Art]()
+* [Interoperating with other frameworks]()
 
 # Playground
 
@@ -32,7 +36,7 @@
 7. [keras-multi-gpu: Multi-GPU data-parallel training in Keras](https://github.com/rossumai/keras-multi-gpu)
 8. [keras_callbacks_example: Keras Callback Examples](https://github.com/keunwoochoi/keras_callbacks_example)
 
-# Implementation (from Scratch)/Pre-trained Models
+# Implementations (from Scratch)/Pre-trained Models
 
 1. https://github.com/raghakot/keras-resnet
 2. https://github.com/XifengGuo/CapsNet-Keras
