@@ -2,7 +2,7 @@
 
 ![](https://img.shields.io/github/forks/soumendra/awesome-deeplearning.svg) ![](https://img.shields.io/github/stars/soumendra/awesome-deeplearning.svg) ![](https://img.shields.io/github/watchers/soumendra/awesome-deeplearning.svg) ![](https://img.shields.io/github/commit-activity/m/soumendra/awesome-deeplearning.svg)
 
-![](https://img.shields.io/github/contributors/soumendra/awesome-deeplearning.svg) ![](https://img.shields.io/github/repo-size/soumendra/awesome-deeplearning.svg) ![](https://img.shields.io/github/languages/code-size/soumendra/awesome-deeplearning.svg) ![](https://img.shields.io/github/last-commit/soumendra/awesome-deeplearning.svg) ![](https://img.shields.io/github/release-date/soumendra/awesome-deeplearning.svg) ![](https://img.shields.io/github/issues-pr-raw/soumendra/awesome-deeplearning.svg) ![](https://img.shields.io/github/release/soumendra/awesome-deeplearning.svg)
+![](https://img.shields.io/github/contributors/soumendra/awesome-deeplearning.svg) ![](https://img.shields.io/github/repo-size/soumendra/awesome-deeplearning.svg) ![](https://img.shields.io/github/languages/code-size/soumendra/awesome-deeplearning.svg) ![](https://img.shields.io/github/last-commit/soumendra/awesome-deeplearning.svg) ![](https://img.shields.io/github/release-date/soumendra/awesome-deeplearning.svg) ![](https://img.shields.io/github/release/soumendra/awesome-deeplearning.svg)
 
 
 
