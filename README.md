@@ -1,4 +1,4 @@
-![](https://img.shields.io/pypi/l/ansicolortags.svg?raw=true) ![](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?raw=true) ![](https://img.shields.io/github/issues/:soumendra/:awesome-keras.svg)
+![](https://img.shields.io/pypi/l/ansicolortags.svg?raw=true) ![](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?raw=true) ![](https://img.shields.io/github/issues-raw/soumendra/awesome-keras.svg)
 
 Here are a few things I found useful in Deep Learning and/with Keras.
 
