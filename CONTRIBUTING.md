@@ -18,6 +18,12 @@ This is a community project. We invite your participation through issues, and pu
 ![](https://img.shields.io/badge/Task-RNNLSTM:TimeSeries-blue.svg)
 ![](https://img.shields.io/badge/Task-RNNLSTM:Speech-blue.svg)
 
+![](https://img.shields.io/badge/Task-Neural%20Style%20Transfer-blue.svg)
+![](https://img.shields.io/badge/Task-GAN%20(adversarial)-blue.svg)
+![](https://img.shields.io/badge/Task-n:shot%20learning-blue.svg)
+![](https://img.shields.io/badge/Task-Recommender%20System-blue.svg)
+![](https://img.shields.io/badge/Task-Art-blue.svg)
+
 ![](https://img.shields.io/badge/Resource-Paper-red.svg)
 ![](https://img.shields.io/badge/Resource-LandmarkPaper-red.svg)
 ![](https://img.shields.io/badge/Resource-SOTA-red.svg)
