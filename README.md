@@ -5,12 +5,12 @@
 # Table of Content
 
 * [Playground](https://github.com/soumendra/awesome-deeplearning/blob/master/README.md#playground): for those just getting started, or looking for fun dates
-* [Modeling Tools/Utilities]()
-* [Implementations/Pre-trained Models]()
-* [Visualization Tools]()
-* [Learning]()
-* [Art]()
-* [Interoperating with other frameworks]()
+* [Modeling Tools/Utilities](https://github.com/soumendra/awesome-deeplearning/blob/master/README.md#modeling-toolsutilities)
+* [Implementations/Pre-trained Models](https://github.com/soumendra/awesome-deeplearning/blob/master/README.md#implementations-from-scratchpre-trained-models)
+* [Visualization Tools](https://github.com/soumendra/awesome-deeplearning/blob/master/README.md#implementations-from-scratchpre-trained-models)
+* [Learning](https://github.com/soumendra/awesome-deeplearning/blob/master/README.md#implementations-from-scratchpre-trained-models)
+* [Art](https://github.com/soumendra/awesome-deeplearning/blob/master/README.md#implementations-from-scratchpre-trained-models)
+* [Interoperating with other frameworks](https://github.com/soumendra/awesome-deeplearning/blob/master/README.md#implementations-from-scratchpre-trained-models)
 
 # Playground
 
@@ -58,10 +58,6 @@
 6. [picard: Easily declare large spaces of (keras) neural networks and run (hyperopt) optimization experiments on them](https://github.com/keplr-io/picard) ([homepage](http://picard.libs.keplr.io/))
 7. [keras-visualize-activations: Activation Maps Visualization for Keras](https://github.com/philipperemy/keras-visualize-activations)
 
-# Recurrent Networks
-
-1. [recurrentshop: Framework for building complex recurrent neural networks with Keras](https://github.com/farizrahman4u/recurrentshop)
-
 # Learning
 
 ## Beginner Resources
@@ -89,3 +85,7 @@
 2. [model-converters: Tools for converting Keras models for use with other ML frameworks](https://github.com/triagemd/model-converters)
 3. [PyTorch to Keras model converter](https://github.com/nerox8664/pytorch2keras)
 4. [Gluon to Keras model converter](https://github.com/nerox8664/gluon2keras)
+
+# Recurrent Networks
+
+1. [recurrentshop: Framework for building complex recurrent neural networks with Keras](https://github.com/farizrahman4u/recurrentshop)
