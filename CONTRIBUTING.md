@@ -50,6 +50,7 @@ This is a community project. We invite your participation through issues, and pu
 ![](https://img.shields.io/badge/Resource-Tutorial-red.svg)
 ![](https://img.shields.io/badge/Resource-Video-red.svg)
 ![](https://img.shields.io/badge/Resource-Coursework-red.svg)
+![](https://img.shields.io/badge/Resource-Free%20Computing-red.svg)
 
 ## Modelling Tasks
 
