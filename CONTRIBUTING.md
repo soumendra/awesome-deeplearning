@@ -4,6 +4,11 @@ This is a community project. We invite your participation through issues, and pu
 
 # How to tag your links with badges
 
+## Meta Badges
+
+![](https://img.shields.io/badge/Meta-Beginner%20Friendly-orange.svg)
+![](https://img.shields.io/badge/Meta-Recommended-orange.svg)
+
 ## Libraries
 
 ![](https://img.shields.io/badge/Library-Keras-green.svg)
@@ -41,6 +46,7 @@ This is a community project. We invite your participation through issues, and pu
 ![](https://img.shields.io/badge/Resource-Dataset-red.svg)
 ![](https://img.shields.io/badge/Resource-Pretrained%20Model-red.svg)
 
+![](https://img.shields.io/badge/Resource-Book-red.svg)
 ![](https://img.shields.io/badge/Resource-Tutorial-red.svg)
 ![](https://img.shields.io/badge/Resource-Video-red.svg)
 ![](https://img.shields.io/badge/Resource-Coursework-red.svg)
