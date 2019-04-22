@@ -2,12 +2,7 @@
 
 ![](https://img.shields.io/github/forks/soumendra/awesome-deeplearning.svg) ![](https://img.shields.io/github/stars/soumendra/awesome-deeplearning.svg) ![](https://img.shields.io/github/watchers/soumendra/awesome-deeplearning.svg) ![](https://img.shields.io/github/commit-activity/m/soumendra/awesome-deeplearning.svg) ![](https://img.shields.io/github/repo-size/soumendra/awesome-deeplearning.svg) ![](https://img.shields.io/github/languages/code-size/soumendra/awesome-deeplearning.svg) ![](https://img.shields.io/github/release-date/soumendra/awesome-deeplearning.svg) ![](https://img.shields.io/github/release/soumendra/awesome-deeplearning.svg)
 
-
-
-Here are a few things I found useful in Deep Learning and/with Keras.
-
-* https://github.com/fchollet/keras-resources
-
+A few things I found useful in Deep Learning and/with Keras.
 
 # Playground
 
