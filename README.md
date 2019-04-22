@@ -1,6 +1,7 @@
 ![](https://img.shields.io/pypi/l/ansicolortags.svg?raw=true) ![](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?raw=true) ![](https://img.shields.io/github/issues-raw/soumendra/awesome-deeplearning.svg) ![](	https://img.shields.io/github/issues-pr-raw/soumendra/awesome-deeplearning.svg)
 
-![](https://img.shields.io/github/:which(contributors|contributors-anon)/soumendra/awesome-deeplearning.svg) ![](https://img.shields.io/github/forks/soumendra/awesome-deeplearning.svg?label=Fork) ![](https://img.shields.io/github/stars/soumendra/awesome-deeplearning.svg?label=Star)
+![](https://img.shields.io/github/repo-size/soumendra/awesome-deeplearning.svg)
+![](https://img.shields.io/github/contributors/soumendra/awesome-deeplearning.svg) ![](https://img.shields.io/github/forks/soumendra/awesome-deeplearning.svg?label=Fork) ![](https://img.shields.io/github/stars/soumendra/awesome-deeplearning.svg?label=Star)
 
 Here are a few things I found useful in Deep Learning and/with Keras.
 
