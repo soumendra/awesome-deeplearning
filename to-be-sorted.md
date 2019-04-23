@@ -12,6 +12,18 @@
 * https://jacobbuckman.com/publication/thermometer/
 * https://www.kdnuggets.com/2017/05/how-not-program-tensorflow-graph.html
 * https://www.easy-tensorflow.com/tf-tutorials/basics/tensor-types
-* 
-* 
+---
+* https://medium.com/@keremturgutlu/semantic-segmentation-u-net-part-1-d8d6f6005066
+* https://forums.fast.ai/t/implementing-mask-r-cnn/2234/17
+* https://github.com/simonm3/maskr
+* https://github.com/facebookresearch/Detectron
+* https://forums.fast.ai/t/part-2-lesson-9-wiki/14028
+* https://www.kaggle.com/c/data-science-bowl-2018/discussion/50610
+---
+* https://medium.com/@pierre_guillou/data-augmentation-by-fastai-v1-84ca04bea302
+* https://towardsdatascience.com/a-big-of-tricks-for-image-classification-fec41eb28e01
+* https://becominghuman.ai/data-augmentation-using-fastai-aefa88ca03f1
+* https://github.com/NifTK/NiftyNet
+* https://github.com/d6t/d6tflow
+* https://github.com/mittagessen/patchseg
 * 
