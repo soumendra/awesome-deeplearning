@@ -112,3 +112,7 @@
 # Recurrent Networks
 
 1. [recurrentshop: Framework for building complex recurrent neural networks with Keras](https://github.com/farizrahman4u/recurrentshop)
+
+# Deployment
+
+1. https://sahnimanas.github.io/2018/06/24/quantization-in-tf-lite.html
