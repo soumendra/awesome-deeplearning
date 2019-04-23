@@ -28,7 +28,9 @@
 * https://github.com/mittagessen/patchseg
 ---
 * https://github.com/onnx
-* onnxjs?
+* https://github.com/Microsoft/onnxjs
+* https://github.com/Microsoft/onnxjs-demo
+* https://github.com/Microsoft/onnxruntime
 * https://github.com/XiaoMi/mace
 * https://github.com/XiaoMi/mobile-ai-bench
 * https://github.com/EMDL/awesome-emdl
