@@ -26,4 +26,16 @@
 * https://github.com/NifTK/NiftyNet
 * https://github.com/d6t/d6tflow
 * https://github.com/mittagessen/patchseg
-* 
+---
+* https://github.com/onnx
+* onnxjs?
+* https://github.com/XiaoMi/mace
+* https://github.com/XiaoMi/mobile-ai-bench
+* https://github.com/EMDL/awesome-emdl
+* https://github.com/younatics/DeepLearningToMobile
+* https://github.com/npatta01/mobile-deep-learning-classifier
+---
+* https://modelzoo.co/model/maskrcnn-benchmark
+* https://towardsdatascience.com/one-shot-learning-with-siamese-networks-using-keras-17f34e75bb3d
+* https://hackernoon.com/building-a-facial-recognition-pipeline-with-deep-learning-in-tensorflow-66e7645015b8
+
