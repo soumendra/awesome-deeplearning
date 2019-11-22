@@ -103,3 +103,9 @@
 # Data Tools
 
 1. https://github.com/wkentaro/labelme
+
+# Misc
+
+1. https://medium.com/@ageitgey/the-dumb-reason-your-fancy-computer-vision-app-isnt-working-exif-orientation-73166c7d39da
+2. https://timdettmers.com/2019/04/03/which-gpu-for-deep-learning/
+3. https://medium.com/@hadyelsahar/how-do-you-manage-your-machine-learning-experiments-ab87508348ac
