@@ -32,8 +32,7 @@
 
 1. https://github.com/joeddav/devol
 2. https://github.com/maxpumperla/hyperas
-3. https://github.com/keras-team/keras-contrib
-    - Tags: ![](https://img.shields.io/badge/Library-Keras-green.svg)
+3. https://github.com/keras-team/keras-contrib ![](https://img.shields.io/badge/Library-Keras-green.svg)
 4. [Accelerating Deep Learning with Multiprocess Image Augmentation in Keras](https://github.com/stratospark/keras-multiprocess-image-data-generator) ([accompanying blog post](http://blog.stratospark.com/multiprocess-image-augmentation-keras.html))
     - Tags: ![](https://img.shields.io/badge/Library-Keras-green.svg)
 5. [ml-tools: Tools for common machine learning tasks using Tensorflow and Keras](https://github.com/triagemd/ml-tools)
@@ -116,3 +115,7 @@
 # Deployment
 
 1. https://sahnimanas.github.io/2018/06/24/quantization-in-tf-lite.html
+
+# Segmentation
+
+1. https://github.com/mrgloom/awesome-semantic-segmentation
